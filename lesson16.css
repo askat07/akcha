@@ -6,3 +6,13 @@ border-radius: 50%;
 background-color: red;
 margin: 0 auto;
 }
+.item{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+.item:hover{
+    box-shadow: 0 4px 4px black ;
+    background-color: greenyellow;
+}
